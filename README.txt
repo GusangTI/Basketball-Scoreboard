@@ -7,8 +7,6 @@ This is a simple and interactive basketball scoreboard created with HTML, CSS, a
 
 The goal of this project is to provide a clean and easy-to-use user interface for keeping score in a basketball game. The scoreboard displays the points for each team and has buttons to add 1, 2, or 3 points at a time, reflecting the most common scores in basketball.
 
-This is a straightforward project created as part of my journey to develop my skills in the language. As I am still learning, the focus was on implementing the core functionalities in a clear and simple way.
-
 ✨ Features
 
 * **Score Counting:** Displays the current score for the home and guest teams.
